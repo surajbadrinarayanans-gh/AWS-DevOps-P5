@@ -22,7 +22,7 @@ Designed a serverless monitoring pipeline using S3, Lambda, EventBridge, and Clo
 
 Creating the VPC
 
-    ![1773803994106](image/README/1773803994106.png)
+![1773803994106](image/README/1773803994106.png)
 
 Creating public and private subnets.
 
