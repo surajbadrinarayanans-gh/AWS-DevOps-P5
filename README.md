@@ -95,7 +95,7 @@ Inspecting the storage bloacks after the attachment of EBS volume. (nvme1n1 is a
 
 ![1773808599910](image/README/1773808599910.png)
 
-Creating the dick partition to actually use the storage for the application.
+Creating the disk partition to actually use the storage for the application.
 
 ![1773808695783](image/README/1773808695783.png)
 
